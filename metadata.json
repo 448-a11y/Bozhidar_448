@@ -1,0 +1,5 @@
+{
+  "name": "Bank Statement OCR Tool",
+  "description": "An intelligent tool to extract transaction data from bank statements. Upload a PDF or image of your statement, and the app will use Gemini to analyze it, extract all transactions, categorize them, and provide the data in a downloadable CSV format.",
+  "requestFramePermissions": []
+}
